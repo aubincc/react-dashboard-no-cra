@@ -47,7 +47,7 @@ Author: Nicolas Aubin &lt;dev@aubin.cc&gt; &copy; 2023
 License: MIT - do anything with the code, but don't blame me if it does not work.
 
 Support: if you find any problems with this module, email / tweet /
-[open issue](https://github.com/molobox/nodejs-api-renew-jwt/issues) on Github
+[open issue](https://github.com/molobox/react18-no-cra/issues) on Github
 
 ## MIT License
 
